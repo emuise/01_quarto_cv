@@ -1,0 +1,15 @@
+phd:
+  title: Ph.D. in Forestry
+  location: Vancouver, British Columbia
+  date: 2020-2025
+  description: University of British Columbia
+ug:
+  title: B.Sc Environmental Science
+  location: Halifax, Nova Scotia
+  date: 2020
+  description: Dalhousie University
+cert:
+  title: GIS Certificate
+  location: Halifax, Nova Scotia
+  date: 2020
+  description: Dalhousie University

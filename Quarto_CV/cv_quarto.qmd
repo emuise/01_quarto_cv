@@ -1,0 +1,46 @@
+---
+title: "Evan Muise"
+author:
+  firstname: Evan
+  lastname: Muise
+  address: "2424 Main Mall, Vancouver, British Columbia, Canada"
+  position: "PhD Candidate"
+  contacts:
+    - icon: fa envelope
+      text: evanmuise@gmail.com
+      url: "mailto:evanmuise@gmail.com"
+    - icon: assets/icon/bi-house-fill.svg
+      text: emuise.github.io
+      url: emuise.github.io
+    - icon: fa brands orcid
+      text: 0000-0003-3404-3220
+      url: https://orcid.org/0000-0003-3404-3220
+format: awesomecv-typst
+---
+
+
+## Education
+
+{{< yaml assets/yml/education.yml >}}
+
+
+## Work Experience
+
+{{< yaml assets/yml/work.yml >}}
+
+## Publications
+
+{{< yaml assets/yml/publication.yml >}}
+
+## Presentations
+
+{{< yaml assets/yml/presentations.yml >}}
+
+## Awards
+
+{{< yaml assets/yml/award.yml >}}
+
+## Skills
+
+{{< yaml assets/yml/skill.yml >}}
+

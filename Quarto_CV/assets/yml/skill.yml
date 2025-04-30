@@ -1,0 +1,9 @@
+lang:
+  title: Languages
+  description: English (native; fluent), French (Intermediate)
+programming:
+  title: Programming Languages
+  description: R, Python
+skill:
+  title: Science
+  description: Satellite image processing, spatial statistics, mapmaking, manuscript and report preparation
